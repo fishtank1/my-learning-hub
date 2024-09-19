@@ -20,7 +20,7 @@ Welcome to my personal Learning Hub! This is a compilation of all my projects, n
    
 3. **Run the project**:
     ```bash
-    npm start
+    npm run dev
     
     
 ## Technologies Used:
