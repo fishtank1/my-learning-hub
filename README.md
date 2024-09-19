@@ -24,7 +24,7 @@ Welcome to my personal Learning Hub! This is a compilation of all my projects, n
     
     
 ## Technologies Used:
-- **Frontend**: React, HTML, CSS, JavaScript
+- **Frontend**: React, NestJS, HTML, CSS, JavaScript
 - **Backend**: Nest.js
 - **Database**: My SQL
 - **Deployment**: AWS
