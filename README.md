@@ -6,7 +6,7 @@ Welcome to my personal Learning Hub! This is a compilation of all my projects, n
 - **Projects**: Browse through all my completed and ongoing projects, categorized by technology.
 - **Notes**: Detailed documentation of my learning progress for various technologies, including code snippets and examples.
 - **Learning Timeline**: Follow my progress and milestones in different areas of development.
-- **Tech Stack**: Built with React (or Next.js), Node.js (or Nest.js), and MongoDB.
+- **Tech Stack**: Built with Next.js, Nest.js, and My SQL.
 
 ## How to Use:
 1. **Clone the repository**:
